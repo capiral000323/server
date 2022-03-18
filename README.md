@@ -1,0 +1,2 @@
+# server
+capzz_server
